@@ -1,0 +1,4 @@
+baseURL = 'https://woojin.park/'
+languageCode = 'en-us'
+title = 'Wooj Playground'
+theme = 'ananke'
